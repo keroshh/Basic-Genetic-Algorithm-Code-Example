@@ -56,3 +56,7 @@ Feel free to modify these parameters and experiment with different target lists 
 ## Requirements
 
 -   Python 3.6 or later
+
+- ## License
+
+This project is licensed under the [MIT License]
