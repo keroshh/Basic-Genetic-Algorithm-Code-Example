@@ -35,7 +35,7 @@ To run the genetic algorithm, follow these steps:
     
 4.  Run the following command to execute the program:
     
-    shellCopy code
+    
     
     `python genetic_algorithm.py` 
     
